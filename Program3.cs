@@ -1,6 +1,4 @@
-﻿
-
-//GETTING INPUT FROM THE USER
+﻿//GETTING INPUT FROM THE USER
 using System;
 namespace program
 {
@@ -18,4 +16,5 @@ namespace program
         }
     }
 }
+
 
